@@ -1,5 +1,7 @@
-data/
+data/*
+!data/philly_yelp_deploy.db
 .DS_Store
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+dashboard_v1.py

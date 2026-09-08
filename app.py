@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-DB_PATH = Path(__file__).parent / "data" / "philly_yelp.db"
+DB_PATH = Path(__file__).parent / "data" / "philly_yelp_deploy.db"
 
 st.set_page_config(page_title="Philly Yelp Dashboard", layout="wide")
 
